@@ -1,0 +1,130 @@
+import image1 from './assets/png/1.png'
+import image2 from './assets/png/2.png'
+import image3 from './assets/png/3.png'
+import image4 from './assets/png/4.png'
+import image5 from './assets/png/5.png'
+import image6 from './assets/png/6.png'
+import image7 from './assets/png/7.png'
+import image8 from './assets/png/8.png'
+import image9 from './assets/png/9.png'
+import image10 from './assets/png/10.png'
+import image11 from './assets/png/11.png'
+import image12 from './assets/png/12.png'
+import image13 from './assets/png/13.png'
+import image14 from './assets/png/14.png'
+import image15 from './assets/png/15.png'
+import image16 from './assets/png/16.png'
+import image17 from './assets/png/17.png'
+import image18 from './assets/png/18.png'
+import image19 from './assets/png/19.png'
+import image20 from './assets/png/20.png'
+import image21 from './assets/png/21.png'
+import image22 from './assets/png/22.png'
+import image23 from './assets/png/23.png'
+import image24 from './assets/png/24.png'
+import image25 from './assets/png/25.png'
+import image26 from './assets/png/26.png'
+import image27 from './assets/png/27.png'
+import image28 from './assets/png/28.png'
+import image29 from './assets/png/29.png'
+import image30 from './assets/png/30.png'
+import image31 from './assets/png/31.png'
+import image32 from './assets/png/32.png'
+import image33 from './assets/png/33.png'
+import image34 from './assets/png/34.png'
+import image35 from './assets/png/35.png'
+import image36 from './assets/png/36.png'
+import image37 from './assets/png/37.png'
+import image38 from './assets/png/38.png'
+import image39 from './assets/png/39.png'
+import image40 from './assets/png/40.png'
+import image41 from './assets/png/41.png'
+import image42 from './assets/png/42.png'
+import image43 from './assets/png/43.png'
+import image44 from './assets/png/44.png'
+import image45 from './assets/png/45.png'
+import image46 from './assets/png/46.png'
+import image47 from './assets/png/47.png'
+import image48 from './assets/png/48.png'
+import image49 from './assets/png/49.png'
+import image50 from './assets/png/50.png'
+import image51 from './assets/png/51.png'
+import image52 from './assets/png/52.png'
+import image53 from './assets/png/53.png'
+import image54 from './assets/png/54.png'
+import image55 from './assets/png/55.png'
+import image56 from './assets/png/56.png'
+import image57 from './assets/png/57.png'
+import image58 from './assets/png/58.png'
+import image59 from './assets/png/59.png'
+import image60 from './assets/png/60.png'
+import styled from '@emotion/styled'
+
+const StyledImg = styled.img`
+width: 100%;
+max-width: 600px;
+background-color: #fff;
+`
+
+export const images = [
+  <StyledImg src={image1} alt="..." />,
+  <StyledImg src={image2} alt="..." />,
+  <StyledImg src={image3} alt="..." />,
+  <StyledImg src={image4} alt="..." />,
+  <StyledImg src={image5} alt="..." />,
+  <StyledImg src={image6} alt="..." />,
+  <StyledImg src={image7} alt="..." />,
+  <StyledImg src={image8} alt="..." />,
+  <StyledImg src={image9} alt="..." />,
+  <StyledImg src={image10} alt="..." />,
+  <StyledImg src={image11} alt="..." />,
+  <StyledImg src={image12} alt="..." />,
+  <StyledImg src={image13} alt="..." />,
+  <StyledImg src={image14} alt="..." />,
+  <StyledImg src={image15} alt="..." />,
+  <StyledImg src={image16} alt="..." />,
+  <StyledImg src={image17} alt="..." />,
+  <StyledImg src={image18} alt="..." />,
+  <StyledImg src={image19} alt="..." />,
+  <StyledImg src={image20} alt="..." />,
+  <StyledImg src={image21} alt="..." />,
+  <StyledImg src={image22} alt="..." />,
+  <StyledImg src={image23} alt="..." />,
+  <StyledImg src={image24} alt="..." />,
+  <StyledImg src={image25} alt="..." />,
+  <StyledImg src={image26} alt="..." />,
+  <StyledImg src={image27} alt="..." />,
+  <StyledImg src={image28} alt="..." />,
+  <StyledImg src={image29} alt="..." />,
+  <StyledImg src={image30} alt="..." />,
+  <StyledImg src={image31} alt="..." />,
+  <StyledImg src={image32} alt="..." />,
+  <StyledImg src={image33} alt="..." />,
+  <StyledImg src={image34} alt="..." />,
+  <StyledImg src={image35} alt="..." />,
+  <StyledImg src={image36} alt="..." />,
+  <StyledImg src={image37} alt="..." />,
+  <StyledImg src={image38} alt="..." />,
+  <StyledImg src={image39} alt="..." />,
+  <StyledImg src={image40} alt="..." />,
+  <StyledImg src={image41} alt="..." />,
+  <StyledImg src={image42} alt="..." />,
+  <StyledImg src={image43} alt="..." />,
+  <StyledImg src={image44} alt="..." />,
+  <StyledImg src={image45} alt="..." />,
+  <StyledImg src={image46} alt="..." />,
+  <StyledImg src={image47} alt="..." />,
+  <StyledImg src={image48} alt="..." />,
+  <StyledImg src={image49} alt="..." />,
+  <StyledImg src={image50} alt="..." />,
+  <StyledImg src={image51} alt="..." />,
+  <StyledImg src={image52} alt="..." />,
+  <StyledImg src={image53} alt="..." />,
+  <StyledImg src={image54} alt="..." />,
+  <StyledImg src={image55} alt="..." />,
+  <StyledImg src={image56} alt="..." />,
+  <StyledImg src={image57} alt="..." />,
+  <StyledImg src={image58} alt="..." />,
+  <StyledImg src={image59} alt="..." />,
+  <StyledImg src={image60} alt="..." />,
+]
